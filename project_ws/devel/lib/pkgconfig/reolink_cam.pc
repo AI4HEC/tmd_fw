@@ -1,0 +1,8 @@
+prefix=/home/aiforhec/Documents/AI4HEC/tmd_fw/project_ws/devel
+
+Name: reolink_cam
+Description: Description of reolink_cam
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
